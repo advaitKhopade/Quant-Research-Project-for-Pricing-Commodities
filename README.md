@@ -1,1 +1,1 @@
-# Quant-Research-Project-for-Natural-Gas-Price-Predictor
+# Natural Gas Price Estimation & Contract Pricing Model
